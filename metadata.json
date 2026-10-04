@@ -1,0 +1,7 @@
+{
+  "name": "Snake Game",
+  "description": "A simple student-friendly Snake Game with mobile touch controls and high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
